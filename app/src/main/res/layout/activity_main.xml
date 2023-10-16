@@ -50,7 +50,7 @@
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="100dp"
             android:drawableTop="@drawable/timer"
-            android:text="00:15"
+            android:text="00:10"
             android:textSize="24sp"
             android:textStyle="bold">
 

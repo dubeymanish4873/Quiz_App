@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
     private val handler = Handler()
     private val interval = 1000L  // 1 second interval
     private var elapsedTime = 0L
-    private var duration = TimeUnit.SECONDS.toMillis(15)
+    private var duration = TimeUnit.SECONDS.toMillis(10)
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
